@@ -1,0 +1,2 @@
+# USERS
+If you're here hoping to see my work for the Users CR assignment, I realized that uploading it to GitHub and then using the same project/repo for the Users CRUD and Users CRUD Modular assignments will make that difficult. I'm hoping that it's pretty easy to see the commit history. The first commit should correspond to the Users CR assignment, the second to Users CRUD, and the third to Users CRUD modular.
